@@ -45,7 +45,8 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   border: 0px solid red;
   margin: 56px auto 0px;
   padding: 0 24px;
